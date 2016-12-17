@@ -6,7 +6,7 @@ package Adapter;
  * ------------------------------------------------------------------------
  * Note that although the methods' names are different from the base class's,
  * their functions are same.In other words, this class is not compatible with
- * the base class Shae.
+ * the base class Shape.
  * In order to use this class,we introduce an adapter Circle Class to use
  * interfaces this class has offered so that we needn't modify this class or
  * the base class. And this class may be reused in other situations.
