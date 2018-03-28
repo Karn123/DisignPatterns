@@ -9,7 +9,3 @@
 + Observer
 + Strategy
 + Command
-
-### Copyright(c) 
-#### All rights reserved by Karn,ECNU.
-### Any questions Please send an email to zhengmin.lai@gmail.com 
