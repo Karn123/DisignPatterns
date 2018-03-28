@@ -1,4 +1,4 @@
-# DisignPatterns
+# Design Patterns
 ### My Object Oriented Design Pattern Examples source code in Java.
 ### Design Patterns Include:
 + Factory
